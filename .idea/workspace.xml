@@ -7,10 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="Add SumNumberStream.java class">
-      <change afterPath="$PROJECT_DIR$/src/firstjavaprograms/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstjavaprograms/OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstjavaprograms/SimpleIntrest.java" afterDir="false" />
+    <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="Add problem statements">
+      <change afterPath="$PROJECT_DIR$/src/firstjavaprograms/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstjavaprograms/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstjavaprograms/LargestOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstjavaprograms/NumOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstjavaprograms/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstjavaprograms/RupeesToDollar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SimpleIntrest">
-    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.Greeting" />
+}</component>
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.ArmstrongNumber" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
@@ -66,21 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LCMAndHCF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="flowofprogram.LCMAndHCF" />
-      <module name="javasdsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="flowofprogram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.OddEven" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.Fibonacci" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleIntrest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.SimpleIntrest" />
+    <configuration name="NumOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.NumOperators" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNumberStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="flowofprogram.SumNumberStream" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.Palindrome" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="flowofprogram.*" />
+          <option name="PATTERN" value="firstjavaprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RupeesToDollar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.RupeesToDollar" />
+      <module name="javasdsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstjavaprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleIntrest" />
-        <item itemvalue="Application.Greeting" />
-        <item itemvalue="Application.OddEven" />
-        <item itemvalue="Application.SumNumberStream" />
-        <item itemvalue="Application.LCMAndHCF" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.NumOperators" />
+        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.RupeesToDollar" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673596744866</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add problem statements">
+      <created>1673791079161</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673791079161</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,15 +218,26 @@
     <MESSAGE value="Add NumMultiplicationTable and NumSum class files" />
     <MESSAGE value="Add LCMAndHCF class" />
     <MESSAGE value="Add SumNumberStream.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add SumNumberStream.java class" />
+    <MESSAGE value="Add problem statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/flowofprogram/SumNumberStream.java</url>
-          <line>10</line>
+          <line>12</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/firstjavaprograms/Fibonacci.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/firstjavaprograms/Palindrome.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
