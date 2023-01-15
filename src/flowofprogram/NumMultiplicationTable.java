@@ -2,6 +2,8 @@ package flowofprogram;
 
 import java.util.Scanner;
 
+//Take a number as input and print the multiplication table for it.
+
 public class NumMultiplicationTable {
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);

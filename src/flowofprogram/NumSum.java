@@ -2,6 +2,7 @@ package flowofprogram;
 
 import java.util.Scanner;
 
+//Take two numbers and print the sum of both.
 public class NumSum {
     public static void main(String[] args) {
         Scanner num1 = new Scanner(System.in);

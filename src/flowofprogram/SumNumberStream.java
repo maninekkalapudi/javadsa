@@ -2,6 +2,8 @@ package flowofprogram;
 
 import java.util.Scanner;
 
+//Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
+
 public class SumNumberStream {
     public static void main(String[] args) {
         int sum = 0;

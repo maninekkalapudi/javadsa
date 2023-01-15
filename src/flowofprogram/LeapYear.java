@@ -2,6 +2,8 @@ package flowofprogram;
 
 import java.util.Scanner;
 
+//Input a year and find whether it is a leap year or not.
+
 public class LeapYear {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

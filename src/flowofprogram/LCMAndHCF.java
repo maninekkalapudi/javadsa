@@ -2,6 +2,8 @@ package flowofprogram;
 
 import java.util.Scanner;
 
+//Take 2 numbers as inputs and find their HCF and LCM.
+
 public class LCMAndHCF {
     public static void main(String[] args) {
         Scanner num1 = new Scanner(System.in);
