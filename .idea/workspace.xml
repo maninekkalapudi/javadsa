@@ -7,8 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="Add problem statements">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfaCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/SubstractProductAndSumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +53,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.ArmstrongNumber" />
+  <component name="RunManager" selected="Application.SubstractProductAndSumOfDigits">
+    <configuration name="AreaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.AreaOfRectangle" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firstjavaprograms.*" />
+          <option name="PATTERN" value="conditionalsandloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.Fibonacci" />
+    <configuration name="AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.AreaOfTriangle" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firstjavaprograms.*" />
+          <option name="PATTERN" value="conditionalsandloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.NumOperators" />
+    <configuration name="AreaOfaCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.AreaOfaCircle" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firstjavaprograms.*" />
+          <option name="PATTERN" value="conditionalsandloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RupeesToDollar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.RupeesToDollar" />
+    <configuration name="SubstractProductAndSumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.SubstractProductAndSumOfDigits" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firstjavaprograms.*" />
+          <option name="PATTERN" value="conditionalsandloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubstractProductAndSumOfDigits" />
+        <item itemvalue="Application.AreaOfRectangle" />
+        <item itemvalue="Application.AreaOfTriangle" />
+        <item itemvalue="Application.AreaOfaCircle" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.NumOperators" />
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.RupeesToDollar" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673800667756</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add problem statements">
+      <created>1673800780940</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673800780940</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
