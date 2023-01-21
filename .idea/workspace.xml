@@ -7,11 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfaCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/SubstractProductAndSumOfDigits.java" afterDir="false" />
+    <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="Add solved problems">
+      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/FactorsOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/LargestNumberInNumberStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/SumOfNumberStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SubstractProductAndSumOfDigits">
+  <component name="RunManager" selected="Application.LargestNumberInNumberStream">
     <configuration name="AreaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditionalsandloops.AreaOfRectangle" />
       <module name="javasdsa" />
@@ -67,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.AreaOfTriangle" />
+    <configuration name="FactorsOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.FactorsOfANumber" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
@@ -80,25 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfaCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.AreaOfaCircle" />
+    <configuration name="LargestNumberInNumberStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.LargestNumberInNumberStream" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="conditionalsandloops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.Palindrome" />
-      <module name="javasdsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstjavaprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfNumberStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.SumOfNumberStream" />
+      <module name="javasdsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conditionalsandloops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestNumberInNumberStream" />
+        <item itemvalue="Application.SumOfNumberStream" />
+        <item itemvalue="Application.FactorsOfANumber" />
         <item itemvalue="Application.SubstractProductAndSumOfDigits" />
         <item itemvalue="Application.AreaOfRectangle" />
-        <item itemvalue="Application.AreaOfTriangle" />
-        <item itemvalue="Application.AreaOfaCircle" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673800780940</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add solved problems">
+      <created>1674025099367</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674025099367</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,7 +237,8 @@
     <MESSAGE value="Add LCMAndHCF class" />
     <MESSAGE value="Add SumNumberStream.java class" />
     <MESSAGE value="Add problem statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statements" />
+    <MESSAGE value="Add solved problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solved problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -250,6 +257,11 @@
           <url>file://$PROJECT_DIR$/src/firstjavaprograms/Palindrome.java</url>
           <line>10</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/conditionalsandloops/FactorsOfANumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
