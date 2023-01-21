@@ -7,12 +7,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfaCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditionalsandloops/SubstractProductAndSumOfDigits.java" afterDir="false" />
+    <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="Add functions problem and refactor code base">
+      <change afterPath="$PROJECT_DIR$/src/functions_4/CircumferenceOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions_4/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions_4/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions_4/MarksToGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions_4/MinAndMaxOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions_4/NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions_4/PythogoreanTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions_4/SumWithFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions_4/Voter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalsandloops_3/AreaOfRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalsandloops_3/AreaOfTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalsandloops/AreaOfaCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalsandloops_3/AreaOfaCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalsandloops/FactorsOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalsandloops_3/FactorsOfANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalsandloops/LargestNumberInNumberStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalsandloops_3/LargestNumberInNumberStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalsandloops/SubstractProductAndSumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalsandloops_3/SubstractProductAndSumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalsandloops/SumOfNumberStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalsandloops_3/SumOfNumberStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstjavaprograms/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstjavaprograms_2/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstjavaprograms/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstjavaprograms_2/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstjavaprograms/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstjavaprograms_2/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstjavaprograms/LargestOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstjavaprograms_2/LargestOfTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstjavaprograms/NumOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstjavaprograms_2/NumOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstjavaprograms/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstjavaprograms_2/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstjavaprograms/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstjavaprograms_2/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstjavaprograms/RupeesToDollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstjavaprograms_2/RupeesToDollar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstjavaprograms/SimpleIntrest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstjavaprograms_2/SimpleIntrest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flowofprogram/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flowofprogram_1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flowofprogram/LCMAndHCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flowofprogram_1/LCMAndHCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flowofprogram/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flowofprogram_1/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flowofprogram/NumMultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flowofprogram_1/NumMultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flowofprogram/NumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flowofprogram_1/NumSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flowofprogram/SumNumberStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flowofprogram_1/SumNumberStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +80,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SubstractProductAndSumOfDigits">
-    <configuration name="AreaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.AreaOfRectangle" />
+  <component name="RunManager" selected="Application.PythogoreanTriplets">
+    <configuration name="CircumferenceOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.CircumferenceOfCircle" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalsandloops.*" />
+          <option name="PATTERN" value="functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.AreaOfTriangle" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.Factorial" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalsandloops.*" />
+          <option name="PATTERN" value="functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfaCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.AreaOfaCircle" />
+    <configuration name="MarksToGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.MarksToGrade" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalsandloops.*" />
+          <option name="PATTERN" value="functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstjavaprograms.Palindrome" />
+    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.NumberPalindrome" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firstjavaprograms.*" />
+          <option name="PATTERN" value="functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstractProductAndSumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalsandloops.SubstractProductAndSumOfDigits" />
+    <configuration name="PythogoreanTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.PythogoreanTriplets" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalsandloops.*" />
+          <option name="PATTERN" value="functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubstractProductAndSumOfDigits" />
-        <item itemvalue="Application.AreaOfRectangle" />
-        <item itemvalue="Application.AreaOfTriangle" />
-        <item itemvalue="Application.AreaOfaCircle" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.PythogoreanTriplets" />
+        <item itemvalue="Application.NumberPalindrome" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.MarksToGrade" />
+        <item itemvalue="Application.CircumferenceOfCircle" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +235,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673800780940</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add solved problems">
+      <created>1674025099367</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674025099367</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add solved problems">
+      <created>1674268380338</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674268380338</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,25 +272,50 @@
     <MESSAGE value="Add LCMAndHCF class" />
     <MESSAGE value="Add SumNumberStream.java class" />
     <MESSAGE value="Add problem statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statements" />
+    <MESSAGE value="Add solved problems" />
+    <MESSAGE value="Add functions problem and refactor code base" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add functions problem and refactor code base" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/flowofprogram/SumNumberStream.java</url>
+          <url>file://$PROJECT_DIR$/src/flowofprogram_1/SumNumberStream.java</url>
           <line>12</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/firstjavaprograms/Fibonacci.java</url>
+          <url>file://$PROJECT_DIR$/src/firstjavaprograms_2/Fibonacci.java</url>
           <line>11</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/firstjavaprograms/Palindrome.java</url>
+          <url>file://$PROJECT_DIR$/src/firstjavaprograms_2/Palindrome.java</url>
           <line>10</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/conditionalsandloops_3/FactorsOfANumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/functions_4/Factorial.java</url>
+          <line>15</line>
+          <properties class="functions.Factorial" method="factorical">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/functions_4/NumberPalindrome.java</url>
+          <line>17</line>
+          <properties class="functions.NumberPalindrome" method="reversenum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

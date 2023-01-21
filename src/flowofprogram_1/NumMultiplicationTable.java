@@ -1,4 +1,4 @@
-package flowofprogram;
+package flowofprogram_1;
 
 import java.util.Scanner;
 

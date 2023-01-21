@@ -1,4 +1,4 @@
-package conditionalsandloops;
+package conditionalsandloops_3;
 
 import java.util.Scanner;
 

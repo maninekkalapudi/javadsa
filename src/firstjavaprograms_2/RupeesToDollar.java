@@ -1,4 +1,4 @@
-package firstjavaprograms;
+package firstjavaprograms_2;
 
 //Input currency in rupees and output in USD.
 

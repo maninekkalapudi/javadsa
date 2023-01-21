@@ -1,4 +1,4 @@
-package firstjavaprograms;
+package firstjavaprograms_2;
 
 import java.util.Arrays;
 import java.util.Scanner;
