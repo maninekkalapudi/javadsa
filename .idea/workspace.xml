@@ -8,10 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="Add Array problem solutions">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_5/FindHighestAltitude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_5/FlipImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_5/ItemsMatchingWithRules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_5/Panagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_5/CellsWithOddValuesInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_5/MatrixDiagonalSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +55,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FlipImage">
-    <configuration name="CreateArrayInTargetOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_5.CreateArrayInTargetOrder" />
+  <component name="RunManager" selected="Application.MatrixDiagonalSum">
+    <configuration name="CellsWithOddValuesInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_5.CellsWithOddValuesInMatrix" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Panagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_5.Panagram" />
+    <configuration name="MatrixDiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_5.MatrixDiagonalSum" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixDiagonalSum" />
+        <item itemvalue="Application.CellsWithOddValuesInMatrix" />
         <item itemvalue="Application.FlipImage" />
         <item itemvalue="Application.FindHighestAltitude" />
         <item itemvalue="Application.ItemsMatchingWithRules" />
-        <item itemvalue="Application.Panagram" />
-        <item itemvalue="Application.CreateArrayInTargetOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -379,6 +377,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays_5/CellsWithOddValuesInMatrix.java</url>
+          <line>14</line>
+          <properties class="Arrays_5.CellsWithOddValuesInMatrix" method="incrementMatrixWithIndices">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
