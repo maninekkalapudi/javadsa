@@ -8,8 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5869026b-3430-4e1c-9a08-09732e37d80c" name="Changes" comment="Add Array problem solutions">
-      <change afterPath="$PROJECT_DIR$/src/Arrays_5/CellsWithOddValuesInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays_5/MatrixDiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_5/AddToArrayFormOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_5/NumbersWithEvenNumberDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_5/TransposeAMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -55,48 +57,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MatrixDiagonalSum">
+  <component name="RunManager" selected="Application.AddToArrayFormOfInteger">
+    <configuration name="AddToArrayFormOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_5.AddToArrayFormOfInteger" />
+      <module name="javasdsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CellsWithOddValuesInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays_5.CellsWithOddValuesInMatrix" />
-      <module name="javasdsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindHighestAltitude" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_5.FindHighestAltitude" />
-      <module name="javasdsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlipImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_5.FlipImage" />
-      <module name="javasdsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ItemsMatchingWithRules" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays_5.ItemsMatchingWithRules" />
       <module name="javasdsa" />
       <extension name="coverage">
         <pattern>
@@ -121,13 +97,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumbersWithEvenNumberDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_5.NumbersWithEvenNumberDigits" />
+      <module name="javasdsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeAMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_5.TransposeAMatrix" />
+      <module name="javasdsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddToArrayFormOfInteger" />
+        <item itemvalue="Application.TransposeAMatrix" />
+        <item itemvalue="Application.NumbersWithEvenNumberDigits" />
         <item itemvalue="Application.MatrixDiagonalSum" />
         <item itemvalue="Application.CellsWithOddValuesInMatrix" />
-        <item itemvalue="Application.FlipImage" />
-        <item itemvalue="Application.FindHighestAltitude" />
-        <item itemvalue="Application.ItemsMatchingWithRules" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675048340872</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add Array problem solutions">
+      <created>1675486125703</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675486125703</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
